@@ -75,3 +75,28 @@ This project addresses those challenges by combining:
 6. Functional coverage collection  
 7. Debug and corner-case validation  
 
+extraa
+Project Scope
+RTL Design
+
+Packet-based 1×3 router
+
+Header-based destination routing
+
+Ready/Valid handshake interface
+
+Output FIFOs with backpressure handling
+
+Round-robin arbitration for contention resolution
+
+Verification
+
+UVM-based testbench
+
+Transaction-level packet modeling
+
+Scoreboard-based checking
+
+Functional coverage
+
+SystemVerilog Assertions (SVA)
