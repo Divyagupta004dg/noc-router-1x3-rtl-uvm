@@ -125,3 +125,28 @@ Scoreboard-based checking
 Functional coverage
 
 SystemVerilog Assertions (SVA)
+
+Tools & Technologies
+Category	Tools / Languages
+RTL Design	SystemVerilog
+Verification	SystemVerilog + UVM
+Assertions	SystemVerilog Assertions (SVA)
+Simulation	Questa / VCS / Verilator
+Waveform Debug	GTKWave
+OS	Ubuntu / Linux
+(Optional) Synthesis	Yosys / OpenLane
+Design & Verification Flow
+
+Specification and architecture definition
+
+RTL implementation of router, FIFO, and arbiter
+
+Assertion-based checks for protocol correctness
+
+UVM environment development
+
+Directed and random traffic testing
+
+Functional coverage collection
+
+Debug and corner-case validation
