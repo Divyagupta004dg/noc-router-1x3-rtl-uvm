@@ -533,3 +533,34 @@ Sources
 bhdbnkkigvbhdhkjgjkjbhddcchj
 nxnsmmslwksmnndjdnsnksnwkwjznskowoqksnx
 bbbmmbcxdiifsxvjooo
+
+
+Add one alternative arbitration scheme
+
+Add latency counters
+
+Run simulations under load
+
+Collect numbers
+
+Write paper sections
+
+That’s it.
+
+If you want next (strongly recommended)
+
+I can:
+
+Propose exact paper title
+
+Write Abstract (ready-to-submit)
+
+Create Result tables
+
+Convert your README → IEEE paper outline
+
+Just say:
+👉 “convert my project into paper outline”
+
+Sources
+bhdbnkkigvbhdhkjgjkjbhddcchj
