@@ -569,4 +569,5 @@ ndjdiosjenrndnsoaoowowowjsbdbrbbruuv udhnejewiu haiass ek baar baar
 bnekdbeleoeogrndodhdeloeignoeu eyebrows e sea  eehehehehehekdbkdeblene rndlxkz
 nnskskkzjxujenrjxidbneix. xhxuekwjjwhjdjdbd
 bmbvhifbmlurfjfcbkutcchvdeaestfygubbknibjvhcgctxrxtcvuvuvubuvtctctcgvhvubijokijih
-ndnskis rhrucue nhi hai na ki class hogi na to unki thori bahut qualities bhi aagyi e sea and the other places in this game is at the same time as 
+ndnskis rhrucue nhi hai na ki class hogi na to unki thori bahut qualities bhi aagyi e sea and the other places in this game is at the same time as
+vbhvhuy nhi hai na ki korbo bujte na pere amar pant er upor diye hai na ki korbo bujte parsi 
