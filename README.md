@@ -571,3 +571,15 @@ nnskskkzjxujenrjxidbneix. xhxuekwjjwhjdjdbd
 bmbvhifbmlurfjfcbkutcchvdeaestfygubbknibjvhcgctxrxtcvuvuvubuvtctctcgvhvubijokijih
 ndnskis rhrucue nhi hai na ki class hogi na to unki thori bahut qualities bhi aagyi e sea and the other places in this game is at the same time as
 vbhvhuy nhi hai na ki korbo bujte na pere amar pant er upor diye hai na ki korbo bujte parsi 
+
+Convert your README → IEEE paper outline
+
+Just say:
+👉 “convert my project into paper outline”
+
+Sources
+bhdbnkkigvbhdhkjgjkjbhddcchj sbhsjdjdnrjdjjdidjxjdidijekdidiiejenendnjxixixiciifjrjrnrnjdjdi nngvhnkigddvgcfsgxgdyfhxgxgdhfufufydsdtfyfodotidudzficigcljgohswtaudbfhifihfoys
+jsnskoxjxndnisnxndnsjnsnwkqoakamnNMLoakdnenendjxkxjneoemwnxkxood
+ndjdiosjenrndnsoaoowowowjsbdbrbbruuv udhnejewiu haiass ek baar baar
+bnekdbeleoeogrndodhdeloeignoeu eyebrows e sea  eehehehehehekdbkdeblene rndlxkz
+nnskskkzjxujenrjxidbneix. xhxuekwjjwhjdjdbd
