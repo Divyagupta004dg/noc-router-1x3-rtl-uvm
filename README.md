@@ -101,3 +101,4 @@ Industry relevance	Cost saving per wafer
 
 
 gshekejhr hai ye to galat baat hai ye to hona hi toh hai hi nahi lagaa 
+bhdghnigvhkkkjggbmmitfcvjuyttgubgjkihbbnkkikmnnccxxfyunbggjkkmbdeyibbvhshkmljgg
