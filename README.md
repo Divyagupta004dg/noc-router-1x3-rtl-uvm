@@ -119,3 +119,40 @@ Proposal	Diffusion sharing, legging, guard-ring sharing
 Metrics	Area (µm²), % reduction
 Results	67.10% area reduction
 Industry relevance	Cost saving per wafer
+
+- (Optional) Synthesis and basic power/performance analysis
+
+These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
+
+hat paper is NOT about “comparator RTL”
+
+It is about:
+
+Paper Element	What they actually did
+Problem	IC area & cost reduction
+Method	Layout optimization techniques
+Baseline	Auto-generated layout
+Proposal	Diffusion sharing, legging, guard-ring sharing
+Metrics	Area (µm²), % reduction
+Results	67.10% area reduction
+Industry relevance	Cost saving per wafer
+
+
+gshekejhr hai ye to galat baat hai ye to hona hi toh hai hi nahi lagaa 
+bhdghnigvhkkkjggbmmitfcvjuyttgubgjkihbbnkkikmnnccxxfyunbggjkkmbdeyibbvhshkmljgg
+
+ (Optional) Synthesis and basic power/performance analysis
+
+These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
+
+hat paper is NOT about “comparator RTL”
+
+It is about:
+
+Paper Element	What they actually did
+Problem	IC area & cost reduction
+Method	Layout optimization techniques
+Baseline	Auto-generated layout
+Proposal	Diffusion sharing, legging, guard-ring sharing
+Metrics	Area (µm²), % reduction
+Results	67.10% area reduction
