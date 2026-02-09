@@ -289,3 +289,11 @@ It is about:
 
 Paper Element	What they actually did
 Problem	IC area & cost reduction
+
+Paper Element	What they actually did
+Problem	IC area & cost reduction
+
+gshekejhr hai ye to galat baat hai ye to hona hi toh hai hi nahi lagaa 
+bhdghnigvhkkkjggbmmitfcvjuyttgubgjkihbbnkkikmnnccxxfyunbggjkkmbdeyibbvhshkmljgg
+
+ (Optional) Synthesis and basic power/performance 
