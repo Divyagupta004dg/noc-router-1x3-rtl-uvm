@@ -269,3 +269,4 @@ Problem	IC area & cost reduction
 
 Paper Element	What they actually did
 Problem	IC area & cost reduction
+vsnsnndkskxndjskkwbsbhdjdjdnskdncnbxbsbsnx bxnsjebdbdndnsb
