@@ -320,6 +320,8 @@ Industry relevance	Cost saving per wafer
 
 
 
+Paper Element	What they actually did
+
 It is about:
 
 Paper Element	What they actually did
@@ -328,18 +330,14 @@ Problem	IC area & cost reduction
 Paper Element	What they actually did
 Problem	IC area & cost reduction
 vsnsnndkskxndjskkwbsbhdjdjdnskdncnbxbsbsnx bxnsjebdbdndnsb
+lly did
+Problem	IC area & cost reduction
+vsnsnndkskxndjskkwbsbhdjdjdnskdncnbxbsbsnx bxnsjebdbdndnsb
 
-generated layout
+
+on techniques
+Baseline	Auto-generated layout
 Proposal	Diffusion sharing, legging, guard-ring sharing
 Metrics	Area (µm²), % reduction
 Results	67.10% area reduction
 Industry relevance	Cost saving per wafer
-
-
-
-It is about:
-
-Paper Element	What they actually did
-Problem	IC area & cost reduction
-
-Paper Element	What they actually did
