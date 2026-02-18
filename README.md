@@ -341,3 +341,12 @@ Proposal	Diffusion sharing, legging, guard-ring sharing
 Metrics	Area (µm²), % reduction
 Results	67.10% area reduction
 Industry relevance	Cost saving per wafer
+bxnsjebdbdndnsb
+
+
+on techniques
+Baseline	Auto-generated layout
+Proposal	Diffusion sharing, legging, guard-ring sharing
+Metrics	Area (µm²), % reduction
+Results	67.10% area reduction
+Industry relevance	Cost saving per wafer
