@@ -199,3 +199,19 @@ Results	67.10% area reduction
 Industry relevance	Cost saving per wafer
 Method	Layout optimization techniques
 Baseline	Auto-generated layout
+study the impact of arbitration and flow-control strategies.
+
+hat paper is NOT about “comparator RTL”
+
+It is about:
+
+Paper Element	What they actually did
+Problem	IC area & cost reduction
+Method	Layout optimization techniques
+Baseline	Auto-generated layout
+Proposal	Diffusion sharing, legging, guard-ring sharing
+Metrics	Area (µm²), % reduction
+Results	67.10% area reduction
+Industry relevance	Cost saving per wafer
+Method	Layout optimization techniques
+Baseline	Auto-generated layout
