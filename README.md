@@ -136,3 +136,10 @@ Coverage-driven verification closure
 These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
 
 hat paper is NOT about “comparator
+area reduction Industry relevance Cost saving per wafer
+
+Coverage-driven verification closure
+(Optional) Synthesis and basic power/performance analysis
+These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
+
+hat paper is NOT about “comparator
