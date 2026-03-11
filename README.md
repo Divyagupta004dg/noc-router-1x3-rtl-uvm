@@ -141,9 +141,13 @@ These enhancements are intended to further evaluate the router behavior under re
 hat paper is NOT about “comparator RTL”
 % area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
 
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
-e enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
+
+ry relevance	Cost saving per wafer
+
+- Coverage-driven verification closure
+- (Optional) Synthesis and basic power/performance analysis
+
+These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
 
 hat paper is NOT about “comparator RTL”
 % area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
@@ -157,38 +161,3 @@ These enhancements are intended to further evaluate the router behavior under re
 
 hat paper is NOT about “comparator RTL”
 % area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
-
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
-
-
-g per wafer
-
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
-e enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
-
-hat paper is NOT about “comparator RTL”
-% area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
-
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
-- Coverage-driven verification closure
-- (Optional) Synthesis and basic power/performance analysis
-
-These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
-
-hat paper is NOT about “comparator RTL”
-% area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
-
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
-performance analysis
-
-These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
-
-hat paper is NOT about “comparator RTL”
-% area reduction Industry relevance Cost saving per wafer Method Layout optimization techniques Baseline Auto-generated layout Proposal Diffusion sharing, legging, guard-ring sharing Metrics Area (µm²), % reduction Results 67.10% area reduction Industry relevance Cost saving per wafer
-
-Coverage-driven verification closure
-(Optional) Synthesis and basic power/performance analysis
