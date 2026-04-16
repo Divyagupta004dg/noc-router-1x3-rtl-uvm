@@ -123,3 +123,9 @@ Industry relevance	Cost saving per wafer
 These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
 
 hat paper is NOT about “comparator RTL”
+verification closure
+- (Optional) Synthesis and basic power/performance analysis
+
+These enhancements are intended to further evaluate the router behavior under realistic NoC traffic conditions and to study the impact of arbitration and flow-control strategies.
+
+hat paper is NOT about “comparator RTL
